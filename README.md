@@ -1,3 +1,4 @@
+![logo](https://github.com/ayushi766897/repodir/blob/main/9b496ad35ad84a359bb54da525346c1c.jpg)
 <h1 align="center">Hi 👋, I'm gudiya</h1>
 <h3 align="center">A passionate mernstack developer and lifelong learner</h3>
 <image align="right" alt="coding" width="400"src="https://i.pinimg.com/originals/b0/d0/2b/b0d02b6462b17306d42e4a70774c2357.gif"
